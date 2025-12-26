@@ -1,0 +1,2 @@
+# syncro
+An ai chatbot
